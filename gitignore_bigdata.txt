@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional if train.csv or large outputs are used)
+*.csv
+*.xlsx
+
+# Log and temporary files
+*.log
+*.tmp
