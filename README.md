@@ -41,4 +41,6 @@ Open BigDataMining_Task2.ipynb in Google Colab (GPU not required) or your PySpar
 
 ---
 
-**Author:** Shin Than Thar Aung
+## Author
+
+**Shin Than Thar Aung**
